@@ -22,3 +22,25 @@
                 | CloudWatch Logs   |
                 +-------------------+
 ```
+
+
+## Features
+
+- Automated EC2 start/stop using Lambda
+- Automated S3 cleanup
+- S3 encryption monitoring
+- Automated EBS snapshot management
+- CloudWatch logging integration
+- Serverless AWS architecture
+
+
+## Technologies Used
+
+- AWS Lambda
+- Amazon EC2
+- Amazon S3
+- Amazon EBS
+- IAM
+- CloudWatch
+- Boto3
+- Python 3.x
