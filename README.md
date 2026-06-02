@@ -44,3 +44,8 @@
 - CloudWatch
 - Boto3
 - Python 3.x
+
+
+## Documentation
+
+Detailed implementation steps and screenshots are available in the attached project documentation.
